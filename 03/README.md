@@ -1,4 +1,4 @@
-# Desafio 2.3 - Análise de Precisão Local de Modelagem de Proteínas (RMSD)
+# Desafio 2.3: Análise de Precisão Local de Modelagem de Proteínas (RMSD)
 
 ## Descrição do Desafio
 
