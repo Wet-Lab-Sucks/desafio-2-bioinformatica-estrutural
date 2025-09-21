@@ -1,4 +1,4 @@
-# Desafio 2.1 - Análise de Estruturas do PDB 
+# Desafio 2.1: Análise de Estruturas do PDB 
 
 ## Descrição do Desafio
 
