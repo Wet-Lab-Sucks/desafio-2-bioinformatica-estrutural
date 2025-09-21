@@ -1,4 +1,4 @@
-# Desafio 2.4 - Análise de Ligações de Hidrogênio com Critérios de Ângulo
+# Desafio 2.4: Análise de Ligações de Hidrogênio com Critérios de Ângulo
 
 ## Descrição do Desafio
 
