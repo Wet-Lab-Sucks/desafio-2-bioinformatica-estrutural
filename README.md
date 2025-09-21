@@ -1,4 +1,4 @@
-# Bioinformática Estrutural
+# Desafio 2: Bioinformática Estrutural
 
 Este repositório documenta as soluções desenvolvidas para os desafios de Bioinformática Estrutural na Liga Brasileira de Bioinformática (2025). 
 
