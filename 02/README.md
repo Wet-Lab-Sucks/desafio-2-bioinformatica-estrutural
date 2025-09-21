@@ -1,4 +1,4 @@
-# Desafio 2.2 - Análise de Ligações de Hidrogênio Intra e Inter-Cadeia
+# Desafio 2.2: Análise de Ligações de Hidrogênio Intra e Inter-Cadeia
 
 ## Descrição do Desafio
 
